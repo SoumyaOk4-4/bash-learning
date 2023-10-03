@@ -1,6 +1,6 @@
-hello#!/bin/bash
+#!/bin/bash
 
-#print
+#print 
 echo "Hello, World!"
 
 #variable
